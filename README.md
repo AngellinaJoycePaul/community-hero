@@ -64,9 +64,20 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 
 ## 📸 Screenshots
-*(Add screenshots here)*
+Below are screenshots from the app:
+
+<p align="center">
+	<img src="screenshots/ReportAnIssue.PNG" alt="Report an Issue" width="30%" />
+	<img src="screenshots/Issue.PNG" alt="Issue details" width="30%" />
+	<img src="screenshots/Dashboard.PNG" alt="Dashboard" width="30%" />
+</p>
+
+<p align="center">
+	<img src="screenshots/Map.PNG" alt="Map view" width="30%" />
+	<img src="screenshots/CommunityBot.PNG" alt="CommunityBot chat" width="30%" />
+</p>
 
 ## 👩‍💻 Built By
 Angellina Joyce Paul — [GitHub](https://github.com/AngellinaJoycePaul)
 
-Built for the Community Hero Hackathon 2026 🏆
+Built for the Vibe2Ship 2026 🏆
