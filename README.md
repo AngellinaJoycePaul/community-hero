@@ -64,17 +64,26 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 
 ## 📸 Screenshots
-Below are screenshots from the app:
+Below are screenshots from the app (stacked):
 
 <p align="center">
-	<img src="screenshots/ReportAnIssue.PNG" alt="Report an Issue" width="30%" />
-	<img src="screenshots/Issue.PNG" alt="Issue details" width="30%" />
-	<img src="screenshots/Dashboard.PNG" alt="Dashboard" width="30%" />
+	<img src="screenshots/ReportAnIssue.PNG" alt="Report an Issue" width="60%" />
 </p>
 
 <p align="center">
-	<img src="screenshots/Map.PNG" alt="Map view" width="30%" />
-	<img src="screenshots/CommunityBot.PNG" alt="CommunityBot chat" width="30%" />
+	<img src="screenshots/Issue.PNG" alt="Issue details" width="60%" />
+</p>
+
+<p align="center">
+	<img src="screenshots/Dashboard.PNG" alt="Dashboard" width="60%" />
+</p>
+
+<p align="center">
+	<img src="screenshots/Map.PNG" alt="Map view" width="60%" />
+</p>
+
+<p align="center">
+	<img src="screenshots/CommunityBot.PNG" alt="CommunityBot chat" width="60%" />
 </p>
 
 ## 👩‍💻 Built By
