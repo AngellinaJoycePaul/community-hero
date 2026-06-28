@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'http://localhost:5000/api' });
+const API = axios.create({ baseURL: 'https://community-hero-backend-ldi2.onrender.com/api' });
 
 export const getAllIssues = () => API.get('/issues');
 export const getIssue = (id) => API.get(`/issues/${id}`);

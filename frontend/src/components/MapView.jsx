@@ -52,7 +52,7 @@ export default function MapView() {
                 </div>
                 {issue.imageUrl && (
                   <img
-                    src={`http://localhost:5000${issue.imageUrl}`}
+                    src={`https://community-hero-backend-ldi2.onrender.com${issue.imageUrl}`}
                     alt="issue"
                     style={{ width: '100%', borderRadius: '6px', marginTop: '8px' }}
                   />

@@ -73,7 +73,7 @@ export default function IssueList() {
                 <p style={{ color: '#64748b', fontSize: '12px' }}>📍 {issue.location.address || `${issue.location.lat}, ${issue.location.lng}`}</p>
               </div>
               {issue.imageUrl && (
-                <img src={`http://localhost:5000${issue.imageUrl}`} alt="issue"
+                <img src={`https://community-hero-backend-ldi2.onrender.com${issue.imageUrl}`} alt="issue"
                   style={{ width: '80px', height: '80px', objectFit: 'cover', borderRadius: '8px', marginLeft: '16px' }} />
               )}
             </div>
